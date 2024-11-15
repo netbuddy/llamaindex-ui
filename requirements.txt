@@ -1,0 +1,10 @@
+streamlit
+llama-index
+openai
+llama-index-embeddings-huggingface
+python-dotenv
+llama-index-storage-docstore-redis
+llama-index-storage-index-store-redis
+pymilvus
+pymilvus[model]
+llama-index-vector-stores-milvus
